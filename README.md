@@ -7,6 +7,9 @@
 
 4. 🤡 Clase (OOP): Modelo que define propiedades y metodos para crear objetos.
 
-5.  🎮 Diagramas de clases: Modelo que muestra clases, atributos y relaciones en un sistema
+5. 🎮 Diagramas de clases: Modelo que muestra clases, atributos y relaciones en un sistema
 
+6. 👺  Proyector: Un dispositivo que muestra imágenes sobre una superficie externa grande (pantalla o pared).
+
+7. 🦍 Joystick: Un control analógico con una palanca central, utilizado principalmente en videojuegos y simuladores de vuelo.
 
