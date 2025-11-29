@@ -3,4 +3,6 @@
 
 2. 🦷 Cache: Memoria rapida que almacena datos temporales para acelerar procesos.
 
+3. 🙌 Cloud Computing: Uso de servidores remotos para almacenar, procesar y gestionar datos.
+
 
